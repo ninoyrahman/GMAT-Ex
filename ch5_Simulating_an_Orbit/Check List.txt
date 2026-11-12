@@ -1,0 +1,6 @@
+Ch 5 Simulating an Orbit
+Earth 10×10 spherical harmonic model
+Jacchia-Roberts atmospheric model
+solar radiation pressure
+point mass perturbations from the Sun and Moon
+stopping condition
